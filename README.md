@@ -67,9 +67,13 @@ For sparse graphs (E << V²) the E term becomes less significant, with V² domin
 •	Responsive UI with interactive controls and clear animations.
 •	Efficient export options for saving path data and graphs.
 ![image](https://github.com/user-attachments/assets/c1b0d668-7cc1-443e-a316-d5c80ab2437b)
+
 ![image](https://github.com/user-attachments/assets/efbc5eae-c113-4f6b-8d66-ff0dfcf1969a)
+
 ![image](https://github.com/user-attachments/assets/f0f46580-493c-4721-bb3c-fbb68e7fea81)
+
 ![image](https://github.com/user-attachments/assets/0a396a3f-34d4-49dd-8436-5f693c9952b9)
+
 ![image](https://github.com/user-attachments/assets/ca54569f-793b-47e3-844f-f4073d6aaba2)
 
 
